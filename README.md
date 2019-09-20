@@ -1,10 +1,10 @@
 # auto-reboot
 
-Sometimes our device will enter shutdown mode when user wants to reboot device.
+Sometimes our device entered shutdown mode when user wanted to reboot device.
 
 So I wrote this script to check whether this bug is fixed or not.
 
-If our device has entered shutdown mode, I will look at its monitor.
+If our device enters shutdown mode, I will look at its monitor.
 It can tell me how many times that our device reboots successfully.
 
 
